@@ -6,6 +6,9 @@ I refactored an existing webpage to make it accessible and to improve SEO. All l
 # DEMO
 https://xenodochial-noyce-859506.netlify.app
 
+or on GitHub Pages
+https://boomajka.github.io/CodeRefactor/
+
 # Technology
 - HTML
 - CSS
